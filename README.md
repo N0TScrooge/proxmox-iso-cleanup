@@ -14,7 +14,7 @@ A Bash script for finding and deleting ISO images across all storages in Proxmox
 
 1. Download the script to your Proxmox VE host:
    ```bash
-   wget https://raw.githubusercontent.com/yourusername/proxmox-iso-cleanup/main/proxmox-iso-cleanup.sh
+   wget https://raw.githubusercontent.com/N0TScrooge/proxmox-iso-cleanup/main/proxmox-iso-cleanup.sh
    ```
 
 2. Make the script executable:
